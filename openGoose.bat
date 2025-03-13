@@ -2,5 +2,5 @@
 
 :start
 start /b /min "" "GooseDesktop.exe"
-timeout /t 60
+timeout /t 300
 goto start
